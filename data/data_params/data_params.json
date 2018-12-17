@@ -1,0 +1,10 @@
+{
+	"dataCodes": ["^FTSE", "^GSPC", "^N225"],
+	"startDate": "1990-01-01",
+	"endDate": "2018-11-01",
+	"invest_horizon": 1,
+	"look_back": 99,
+	"train_prct": 0.95,
+	"dev_prct": 0.0,
+	"test_prct": 0.05
+}
